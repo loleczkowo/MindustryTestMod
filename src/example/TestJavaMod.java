@@ -23,5 +23,4 @@ public class TestJavaMod extends Mod{
     public void loadContent(){
         Log.info("Loading some example content.");
     }
-
 }
